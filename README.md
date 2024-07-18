@@ -1,2 +1,2 @@
 # PyFastApp
-A simple module for fast web application development
+A simple module for fast application development
